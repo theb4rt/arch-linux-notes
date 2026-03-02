@@ -1,4 +1,3 @@
-# arch-linux-notes/gnome/icons/candy-icons/toolbox-jetbrains-icons.sh
 #!/usr/bin/env bash
 set -euo pipefail
 
